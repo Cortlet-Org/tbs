@@ -1,0 +1,44 @@
+# Dart / Flutter / Pub
+.dart_tool/
+.packages
+pubspec.lock
+build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated boot files (TBS outputs)
+boot.asm
+boot.bin
+
+# Example outputs
+examples/*.bin
+examples/*.asm
+
+# NASM intermediate
+*.o
+*.obj
+
+# QEMU runtime logs / states
+*.log
+*.img
+*.iso
+qemu-*
+
+# Executables
+*.exe
+*.out
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Crash logs
+*.stacktrace
