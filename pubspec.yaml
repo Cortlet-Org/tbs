@@ -10,7 +10,6 @@ homepage: https://github.com/Cortlet-Org/tbs
 repository: https://github.com/Cortlet-Org/tbs
 issue_tracker: https://github.com/Cortlet-Org/tbs/issues
 documentation: https://github.com/Cortlet-Org/tbs#readme
-publisher: Cortlet
 
 environment:
   sdk: ">=3.0.0 <4.0.0"

@@ -1,4 +1,4 @@
-import 'package:tbs/tbs_api.dart';
+import 'package:tbs/tbs.dart';
 
 void main() {
   TBS.Ah(0x0E);

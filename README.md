@@ -18,7 +18,7 @@ dart run bin/tbs_compiler.dart examples/boot.dart
 ```
 
 ```dart
-import 'package:tbs/tbs_api.dart';
+import 'package:tbs/tbs.dart';
 
 void main() {
   TBS.Al("H");
