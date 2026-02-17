@@ -3,7 +3,7 @@ description: >
   Teretalia Boot Set — A Dart-to-16-bit bootloader compiler. TBS allows
   developers to write BIOS-level bootloaders directly in Dart using the TBS DSL,
   and compiles them into real bootable binaries via NASM.
-version: 1.0.0
+version: 1.0.1
 
 # Cortlet branding
 homepage: https://github.com/Cortlet-Org/tbs
